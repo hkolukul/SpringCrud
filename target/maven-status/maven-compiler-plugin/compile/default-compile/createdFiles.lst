@@ -1,0 +1,5 @@
+com\training\spring\crud\controller\StudentController.class
+com\training\spring\crud\model\Student.class
+com\training\spring\crud\rowmappers\StudentMapper.class
+com\training\spring\crud\dao\StudentDAOInterface.class
+com\training\spring\crud\dao\StudentDAO.class
